@@ -1,0 +1,7 @@
+/home/ed/dotnet/Blazor/BlazorApp1/bin/Publish/BlazorApp1
+/home/ed/dotnet/Blazor/BlazorApp1/bin/Publish/appsettings.Development.json
+/home/ed/dotnet/Blazor/BlazorApp1/bin/Publish/appsettings.json
+/home/ed/dotnet/Blazor/BlazorApp1/bin/Publish/BlazorApp1.dll
+/home/ed/dotnet/Blazor/BlazorApp1/bin/Publish/BlazorApp1.deps.json
+/home/ed/dotnet/Blazor/BlazorApp1/bin/Publish/BlazorApp1.runtimeconfig.json
+/home/ed/dotnet/Blazor/BlazorApp1/bin/Publish/BlazorApp1.pdb
